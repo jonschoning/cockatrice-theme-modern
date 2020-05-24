@@ -1,5 +1,9 @@
 ## Modern Theme for Cockatrice
 
+Motivating factors behind this theme:
+ - Provide a neutral color palate that isn't biased torwards any particular color or lightness. This maximizses the effect of the colors seen on the cards on the battlefield (e.g. light cards should appear light than the background, dark cards should appear darker than the background)
+ - Avoid excessive ornamentation
+ 
 ![png](screenshots/1player.png)
 
 ![png](screenshots/4player.png)
