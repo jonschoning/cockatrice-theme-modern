@@ -5,7 +5,10 @@ Motivating factors behind this theme:
  - Maximize the effect of the cards' colors on the on the battlefield.  
    - Light cards should appear lighter than the background
    - Dark cards should appear darker than the background
- - Avoid excessive ornamentation
+ - Avoid excessive/distracting ornamentation
+ - Tighter, more streamlined sounds
+ - Not a complete UI overhaul. 
+   - Only the minimum changes necessary to achieve stated goals.
  
 ![png](screenshots/1player.png)
 
