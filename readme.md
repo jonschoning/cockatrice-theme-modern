@@ -1,8 +1,14 @@
 ## Modern Theme for Cockatrice
 
+![png](screenshots/1player.png)
+
+![png](screenshots/4player.png)
+
 Put the files in the location specified here: https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
 
-If you don't want to install the helvetica_condensed.ttf, then just delete the style.css file- all that does is alter the font on the UI interface a bit
+This theme uses helvetica_condensed.ttf that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed.
+
+If you don't want to install the `helvetica_condensed.ttf`, then just delete the style.css file or comment out the style for the font.
 
 The sound theme is technically separate from the UI theme, which is optional
 
