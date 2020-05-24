@@ -14,7 +14,7 @@ Motivating factors behind this theme:
 
 https://github.com/jonschoning/cockatrice-theme-modern/releases
 
-## Screenshots 
+## Screenshots (v0.1)
 
 ![png](screenshots/1player.png)
 
