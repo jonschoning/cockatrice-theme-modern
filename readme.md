@@ -10,18 +10,32 @@ Motivating factors behind this theme:
  - Not a complete UI overhaul. 
    - Only the minimum changes necessary to achieve stated goals.
  
+### Screenshots 
+
 ![png](screenshots/1player.png)
 
 ![png](screenshots/4player.png)
 
+### Theme Variant with Helvetica Condensed UI Font (Optional)
+
 ![png](screenshots/deck-editor.png)
 
-Put the files in the location specified here: https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
+This variant of the theme uses `helvetica_condensed.ttf` that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed.
 
-This theme uses `helvetica_condensed.ttf` that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed.
+### Installation
 
-If you don't want to install the `helvetica_condensed.ttf`, then just delete the style.css file or comment out the style for the font.
+Put the files in the location specified here: 
 
-The sound theme is technically separate from the UI theme, which is optional
+Create this directory if it doesn't exist.
+
+  - Windows: C:\Users\USERNAME\AppData\Local\Cockatrice\Cockatrice
+  - Linux: ~/.local/share/Cockatrice/Cockatrice
+  - Mac OSX: ~/Library/Application Support/Cockatrice/Cockatrice
+
+More information here https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
 
 You'll have to re-start cockatrice after switching to get the icons to load correctly.
+
+### Sounds
+
+The sound theme is technically separate from the UI theme, which is optional
