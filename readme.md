@@ -24,9 +24,7 @@ This variant of the theme uses `helvetica_condensed.ttf` that is found in `theme
 
 ### Installation
 
-Put the files in the location specified here: 
-
-Create this directory if it doesn't exist.
+Put the files in the location specified here:
 
   - Windows: C:\Users\USERNAME\AppData\Local\Cockatrice\Cockatrice
   - Linux: ~/.local/share/Cockatrice/Cockatrice
