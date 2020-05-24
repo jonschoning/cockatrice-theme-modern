@@ -9,20 +9,24 @@ Motivating factors behind this theme:
  - Tighter, more streamlined sounds
  - Not a complete UI overhaul. 
    - Only the minimum changes necessary to achieve stated goals.
- 
-### Screenshots 
+
+## Releases
+
+https://github.com/jonschoning/cockatrice-theme-modern/releases
+
+## Screenshots 
 
 ![png](screenshots/1player.png)
 
 ![png](screenshots/4player.png)
 
-### Theme Variant with Helvetica Condensed UI Font (Optional)
+## Theme Variant with Helvetica Condensed UI Font (Optional)
 
 ![png](screenshots/deck-editor.png)
 
 This variant of the theme uses `helvetica_condensed.ttf` that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed.
 
-### Installation
+## Installation
 
 Put the files in the location specified here:
 
@@ -34,6 +38,6 @@ More information here https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-
 
 You'll have to re-start cockatrice after switching to get the icons to load correctly.
 
-### Sounds
+## Sounds
 
 The sound theme is technically separate from the UI theme, which is optional
