@@ -40,11 +40,11 @@ The sound theme is technically separate from the UI theme, which is optional
 
 More information here https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
 
-1a. (Optional) If you choose the HelveticaCondensed release, see above for installing the font.
+2. (Optional) If you choose the HelveticaCondensed release, see above for installing the font.
 
-2. Select the theme in Cockatrice with Cockatrice->Settings->Appearance
+3. Select the theme in Cockatrice with Cockatrice->Settings->Appearance
 
-2a. (Optional) Select the sound theme in Cockatrice->Settings->Sound
+4. (Optional) Select the sound theme in Cockatrice->Settings->Sound
 
-3. Press OK on Settings. Then re-start cockatrice (this is for icons to load correctly)
+5. Press OK on Settings. Then re-start cockatrice (this is for icons to load correctly)
 
