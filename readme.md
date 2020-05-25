@@ -24,7 +24,7 @@ https://github.com/jonschoning/cockatrice-theme-modern/releases
 
 ![png](screenshots/deck-editor.png)
 
-This variant of the theme uses `helvetica_condensed.ttf` that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed.
+This variant of the theme uses `helvetica_condensed.ttf` that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed, if the HelveticaCondensed version of the release is chosen
 
 ## Installation
 
@@ -37,6 +37,8 @@ Put the files in the location specified here:
 More information here https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
 
 You'll have to re-start cockatrice after switching to get the icons to load correctly.
+
+If you choose the HelveticaCondensed release, see above for installing the font.
 
 ## Sounds
 
