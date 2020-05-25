@@ -26,9 +26,13 @@ https://github.com/jonschoning/cockatrice-theme-modern/releases
 
 This variant of the theme uses `helvetica_condensed.ttf` that is found in `themes/modern/helvetica_condensed.ttf` and needs to be installed, if the HelveticaCondensed version of the release is chosen
 
+## Sounds (Optional)
+
+The sound theme is technically separate from the UI theme, which is optional
+
 ## Installation
 
-Put the files in the location specified here:
+1. Put the files in the location specified here:
 
   - Windows: C:\Users\USERNAME\AppData\Local\Cockatrice\Cockatrice
   - Linux: ~/.local/share/Cockatrice/Cockatrice
@@ -36,10 +40,11 @@ Put the files in the location specified here:
 
 More information here https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
 
-You'll have to re-start cockatrice after switching to get the icons to load correctly.
+1a. (Optional) If you choose the HelveticaCondensed release, see above for installing the font.
 
-If you choose the HelveticaCondensed release, see above for installing the font.
+2. Select the theme in Cockatrice with Cockatrice->Settings->Appearance
 
-## Sounds
+2a. (Optional) Select the sound theme in Cockatrice->Settings->Sound
 
-The sound theme is technically separate from the UI theme, which is optional
+3. Press OK on Settings. Then re-start cockatrice (this is for icons to load correctly)
+
