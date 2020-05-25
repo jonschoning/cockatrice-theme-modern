@@ -32,19 +32,20 @@ The sound theme is technically separate from the UI theme, which is optional
 
 ## Installation
 
-1. Put the files in the location specified here:
+1. Download the latest zip file from https://github.com/jonschoning/cockatrice-theme-modern/releases
+
+2. Put the files in the location specified here:
 
   - Windows: C:\Users\USERNAME\AppData\Local\Cockatrice\Cockatrice
   - Linux: ~/.local/share/Cockatrice/Cockatrice
   - Mac OSX: ~/Library/Application Support/Cockatrice/Cockatrice
 
-More information here https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
+More information: https://github.com/Cockatrice/Cockatrice/wiki/Themes#what-is-a-theme
 
-2. (Optional) If you choose the HelveticaCondensed release, see above for installing the font.
+3. (Optional) If you choose the HelveticaCondensed release, see above for installing the font.
 
-3. Select the theme in Cockatrice with Cockatrice->Settings->Appearance
+4. Select the theme in Cockatrice with Cockatrice->Settings->Appearance
 
-4. (Optional) Select the sound theme in Cockatrice->Settings->Sound
+5. (Optional) Select the sound theme in Cockatrice->Settings->Sound
 
-5. Press OK on Settings. Then re-start cockatrice (this is for icons to load correctly)
-
+6. Press OK on Settings. Then re-start cockatrice (this is for icons to load correctly)
