@@ -1,7 +1,7 @@
 ## Modern Theme for Cockatrice
 
 Motivating factors behind this theme:
- - Provide a neutral color palate that isn't biased torwards any particular color or lightness. 
+ - Provide a neutral color palette that isn't biased torwards any particular color or lightness. 
  - Maximize the effect of the cards' colors on the on the battlefield.  
    - Light cards should appear lighter than the background
    - Dark cards should appear darker than the background
